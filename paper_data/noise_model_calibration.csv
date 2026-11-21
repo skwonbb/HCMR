@@ -1,0 +1,29 @@
+backend,quantity,value
+FakeFez,sx_error,0.00022868757107977525
+FakeFez,cz_error,0.0039033828523107883
+FakeFez,readout_error,0.007568359375
+FakeFez,t1_us,144.85526609546147
+FakeFez,t2_us,87.95068681159162
+FakeNighthawk,sx_error,0.0001478004933658433
+FakeNighthawk,cz_error,0.002709329897713067
+FakeNighthawk,readout_error,0.0048828125
+FakeNighthawk,t1_us,272.7900837906601
+FakeNighthawk,t2_us,341.63350189390184
+ibm_fez (median over the runs),sx_error,0.0003108719268949792
+ibm_fez (median over the runs),cz_error,0.0026921215444720287
+ibm_fez (median over the runs),readout_error,0.01068115234375
+ibm_fez (median over the runs),t1_us,140.5590250416384
+ibm_fez (median over the runs),t2_us,99.50572326945935
+training-noise model (FakeFez),depolarizing_one_qubit,0.0009145410922984931
+training-noise model (FakeFez),depolarizing_two_qubit,0.005204510469747718
+training-noise model (FakeFez),readout_scale,0.98486328125
+training-noise model (FakeFez),state_preparation_survival_4q,0.8879509908122399
+training-noise model (FakeFez),state_preparation_survival_8q,0.0638680503624083
+training-noise model (FakeFez),state_preparation_two_qubit_4q,20.0
+training-noise model (FakeFez),state_preparation_one_qubit_4q,42.0
+training-noise model (FakeFez),state_preparation_two_qubit_8q,731.0
+training-noise model (FakeFez),state_preparation_one_qubit_8q,1436.4
+training-noise model (FakeFez),attenuation_ratio_amplitude_4q,0.8879509908122399
+training-noise model (FakeFez),attenuation_ratio_amplitude_8q,0.0638680503624083
+training-noise model (FakeFez),attenuation_ratio_angle_4q,0.9073382717344797
+training-noise model (FakeFez),attenuation_ratio_angle_8q,0.8037312632884093
